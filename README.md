@@ -1,5 +1,3 @@
-# depor0mk-cloud-tg-mini-app
-игра
 <!DOCTYPE html>
 <html lang="ru">
 <head>
